@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My-MVVM-WanAndroid</string>
+    <string name="app_name_debug">My-MVVM-WanAndroid-Debug</string>
+</resources>
